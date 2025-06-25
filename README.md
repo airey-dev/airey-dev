@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Wisdom Aireguamen 👋
+### Hi, I'm Wisdom 👋
 
 🚀 I’m a Full-Stack Web Developer (MERN) focused on building fast, accessible, and clean applications.
 
