@@ -12,31 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Hi, I'm Wisdom 👋
-
+Hi, I'm Wisdom 👋
 🚀 I’m a Full-Stack Web Developer (MERN) focused on building fast, accessible, and clean applications.
 
 🌱 Currently working on: a SaaS dashboard and contributing to open source.
 
----
+🔧 Tech Stack:
 
-### 🔧 Tech Stack
+Frontend: React, Tailwind CSS, TypeScript
+Backend: Node.js, Express, MongoDB
+📫 Let's connect! Portfolio | LinkedIn | Email
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
-
----
-
+💼 Open to freelance, remote or full-time web dev roles.
 📫 Let's connect! [Portfolio](#) | [LinkedIn](#) | [Email](#)
 
 💼 Open to freelance, remote or full-time web dev roles.
