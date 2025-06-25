@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **airey-dev/airey-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Aire Wisdom 👋
+### Hi, I'm Wisdom Aireguamen 👋
 
 🚀 I’m a Full-Stack Web Developer (MERN) focused on building fast, accessible, and clean applications.
 
