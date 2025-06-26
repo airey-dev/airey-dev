@@ -12,18 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Wisdom 👋
-🚀 I’m a Full-Stack Web Developer (MERN) focused on building fast, accessible, and clean applications.
+## 👋 Hi, I'm [Your Name]
 
-🌱 Currently working on: a SaaS dashboard and contributing to open source.
+I'm a passionate web developer with a strong interest in building responsive and user-friendly applications. I specialize in [e.g., frontend development with React and Tailwind CSS] and I'm currently deepening my skills in the MERN stack.
 
-🔧 Tech Stack:
+### 🔗 Connect with Me
 
-Frontend: React, Tailwind CSS, TypeScript
-Backend: Node.js, Express, MongoDB
-📫 Let's connect! Portfolio | LinkedIn | Email
+- 💼 [LinkedIn](https://www.linkedin.com/in/wisdomairey)
+- 🐦 [Twitter](https://twitter.com/airey_dev)
+- 💻 [Portfolio](https://yourportfolio.com)
+- 📫 Email: wisdomaireguamen@gmail.com
 
-💼 Open to freelance, remote or full-time web dev roles.
-📫 Let's connect! [Portfolio](#) | [LinkedIn](#) | [Email](#)
+### 🚀 Projects
 
-💼 Open to freelance, remote or full-time web dev roles.
+Check out some of my pinned repositories below or explore all my projects to see what I’ve been working on!
+
+---
+
+Feel free to follow me or reach out. I'm always open to collaboration and opportunities to grow.
