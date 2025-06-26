@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi, I'm Wisdom
 
-I'm a passionate web developer with a strong interest in building responsive and user-friendly applications. I specialize in [e.g., frontend development with React and Tailwind CSS] and I'm currently deepening my skills in the MERN stack.
+I'm a passionate web developer with a strong interest in building responsive and user-friendly applications. I specialize in frontend development with React and Tailwind CSS and I'm currently deepening my skills in the MERN stack.
 
 ### 🔗 Connect with Me
 
