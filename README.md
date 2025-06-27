@@ -19,7 +19,7 @@ I'm a passionate web developer with a strong interest in building responsive and
 ### 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wisdomairey)
-- 🐦 [Twitter](https://twitter.com/airey_dev)
+- 🐦 [Twitter](https://x.com/wisdomairey)
 - 💻 [Portfolio](https://yourportfolio.com)
 - 📫 Email: wisdomaireguamen@gmail.com
 
